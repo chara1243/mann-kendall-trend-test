@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+*.log
+
+# Environment
+.env
+venv/
+.venv/
+
+# Temporary outputs
+*.tif
+*.csv
+*.nc
+
+# Credentials
+credentials.json
+*.key
